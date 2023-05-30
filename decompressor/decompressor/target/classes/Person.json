@@ -1,0 +1,12 @@
+[
+    {
+    	"name": "Rahul",
+        "project": "helix",
+        "hobby": "cricket"
+    },
+    {
+        "name": "Abhishek",
+        "project": "ninja",
+        "hobby": "basketball"
+    }
+]
